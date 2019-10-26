@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="112" started-at="2019-10-26T05:39:55Z" finished-at="2019-10-26T05:39:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="112" started-at="2019-10-26T05:39:55Z" finished-at="2019-10-26T05:39:55Z">
+      <class name="com.examples.test1">
+        <test-method status="PASS" signature="sub()[pri:1, instance:com.examples.test1@457e2f02]" name="sub" duration-ms="42" started-at="2019-10-26T05:39:55Z" finished-at="2019-10-26T05:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="mul()[pri:2, instance:com.examples.test1@457e2f02]" name="mul" duration-ms="3" started-at="2019-10-26T05:39:55Z" finished-at="2019-10-26T05:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="add()[pri:3, instance:com.examples.test1@457e2f02]" name="add" duration-ms="1" started-at="2019-10-26T05:39:55Z" finished-at="2019-10-26T05:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- com.examples.test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
